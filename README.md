@@ -5,7 +5,7 @@ Há também algumas animações de hover. Foram utilizados conceitos de flex-box
 
 Foram utilizadas imagens baixadas da internet para fazer os ícones e por isso algumas imagens podem não ter uma qualidade muito boa. Existem alguns bugs de hover e em algumas telas o botão "desligar" pode ficar um pouco bugado.
 
-! -- O ARQUIVO "INDEX" É O ARQUIVO PRINCIPAL PARA ABRIR O PORJETO -- !
+! -- O ARQUIVO "INDEX.HTML" É O ARQUIVO PRINCIPAL PARA ABRIR O PORJETO -- !
 
 Lembrando que, para conseguir vizualizar da melhor maneira possível, é recomendado usar uma tela padrão de monitores e TV's, deixar a página com um zoom de 100% e colocar em tela cheia.
 
