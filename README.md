@@ -1,5 +1,4 @@
 # Windows-7-Interface
-Uma interface do Windows 7 criada com HTML e CSS
 Esse projeto é a criação visual do windows 7 com CSS e HTML. Ele não possúi muitas funções. O máximo que pode ser feito é abrir o menu
 clicando no mesmo ícone que abre no sistema operacional (a logo do windows) e também é possível ser redirecionado clicando em alguns ícones.
 Há também algumas animações de hover. Foram utilizados conceitos de flex-box para organizar os itens na tela.
