@@ -7,6 +7,6 @@ Foram utilizadas imagens baixadas da internet para fazer os ícones e por isso a
 
 ! -- O ARQUIVO "INDEX.HTML" É O ARQUIVO PRINCIPAL PARA ABRIR O PORJETO -- !
 
-Lembrando que, para conseguir vizualizar da melhor maneira possível, é recomendado usar uma tela padrão de monitores e TV's, deixar a página com um zoom de 100% e colocar em tela cheia.
+Lembrando que, para conseguir vizualizar da melhor maneira possível, é recomendado usar uma tela padrão de monitores e TV's, deixar a página com um zoom de 100% ou menos e colocar em tela cheia.
 
 Projeto foi iniciado em fevereiro de 2022.
